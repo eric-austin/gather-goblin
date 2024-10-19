@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gather-goblin"
+  site-url: "https://eric-austin.github.io/gather-goblin"
+  description: "General purpose library for data gathering, ingestion, and scraping in python."
+  repo-branch: main
+  repo-url: "https://github.com/eric-austin/gather-goblin"
